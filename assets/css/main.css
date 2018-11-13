@@ -243,7 +243,7 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h5, h6 {
 		color: #ffffff;
 		font-family: Raleway, Helvetica, sans-serif;
 		font-weight: 700;
@@ -276,7 +276,14 @@ input, select, textarea {
 	}
 
 	h4 {
-		font-size: 0.7em;
+		font-family: Raleway, Helvetica, sans-serif;
+		font-size: 1.2em;
+		text-align: center;
+		color: #fffffff;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		margin: 0 0 0 0;
 	}
 
 	h5 {
@@ -2614,6 +2621,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		text-align:center;
 	}
 
 		ul.icons li {
@@ -2626,7 +2634,7 @@ input, select, textarea {
 			}
 
 			ul.icons li .icon:before {
-				font-size: 1.25em;
+				font-size: 3em;
 			}
 
 /* Contact */
@@ -2634,13 +2642,16 @@ input, select, textarea {
 	ul.contact {
 		list-style: none;
 		padding: 0;
+		text-align: center;
 	}
 
 		ul.contact li {
 			text-decoration: none;
-			margin: 2.5em 0 0 0;
-			padding: 0 0 0 3.25em;
-			position: relative;
+			margin: 0 auto 0 auto;
+			padding: 0 1em 0 2.5em ;
+			display :inline-block;
+			position:relative;
+			
 		}
 
 			ul.contact li:before {
@@ -3991,15 +4002,17 @@ input, select, textarea {
 		}
 
 		#footer .inner .contact {
-			width: calc(50% - 1.5em);
+			width: 100%;
 		}
 
 		#footer .inner .copyright {
 			border-top: solid 2px rgba(255, 255, 255, 0.125);
 			list-style: none;
-			margin: 4em 0 2em 0;
+			margin: 0 0 2em 0;
+			margin: 0 0 2em 0;
 			padding: 2em 0 0 0;
 			width: 100%;
+			text-align: center;
 		}
 
 			#footer .inner .copyright li {
@@ -4011,14 +4024,13 @@ input, select, textarea {
 				margin-left: 1em;
 				padding: 0;
 				padding-left: 1em;
-				align: center;
 			}
 
 				#footer .inner .copyright li:first-child {
 					border-left: 0;
 					margin-left: 0;
 					padding-left: 0;
-					align : center;
+					
 				}
 
 				#footer .inner .copyright li a {
