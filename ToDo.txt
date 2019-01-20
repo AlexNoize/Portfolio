@@ -1,3 +1,8 @@
+Descriptive part:
+	- Triz
+
+
+
 Technical part:
 	- Wireless communication interferences problem
 	- Iridium Next pres
@@ -7,8 +12,7 @@ Technical part:
 	- OM2M
 	- SOA
 	- Cloud
-	- Big Data
-	- Triz
+	- Big Data OK
 	- Social Psychology
 
 Analytical part
