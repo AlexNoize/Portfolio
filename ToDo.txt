@@ -1,0 +1,15 @@
+Technical part:
+	- Wireless communication interferences problem
+	- Iridium Next pres
+	- Sigfox study
+	- MAC Layers
+	- SDR
+	- OM2M
+	- SOA
+	- Cloud
+	- Big Data
+	- Triz
+	- Social Psychology
+
+Analytical part
+	-Synthesis
