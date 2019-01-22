@@ -6,8 +6,8 @@ Descriptive part:
 Technical part:
 	- Wireless communication interferences problem
 	- Iridium Next pres
-	- Sigfox study
-	- MAC Layers
+	- Sigfox study OK
+	- MAC Layers OK
 	- SDR
 	- OM2M
 	- SOA
