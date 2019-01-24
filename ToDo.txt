@@ -1,17 +1,17 @@
 Descriptive part:
-	- Triz
+	- Triz OK
 
 
 
 Technical part:
-	- Wireless communication interferences problem
-	- Iridium Next pres
+	- Wireless communication interferences problem OK
+	- Iridium Next pres OK
 	- Sigfox study OK
 	- MAC Layers OK
-	- SDR
-	- OM2M
-	- SOA
-	- Cloud
+	- SDR OK 
+	- OM2M OK
+	- SOA OK
+	- Cloud OK
 	- Big Data OK
 	- Social Psychology
 
